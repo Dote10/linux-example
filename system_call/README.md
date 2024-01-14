@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>The a target attribute</h1>
-
-<p>Open link in a new window or tab: <a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a></p>
-
-</body>
-</html>
+<a href="https://dodote10.tistory.com/564" target="_blank">리눅스-시스템콜</a>
